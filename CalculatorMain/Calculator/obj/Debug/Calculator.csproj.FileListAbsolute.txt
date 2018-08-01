@@ -1,0 +1,27 @@
+C:\Users\Troy Frazier\Desktop\CalculatorMain\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Troy Frazier\Desktop\CalculatorMain\Calculator\bin\Debug\Calculator.exe
+C:\Users\Troy Frazier\Desktop\CalculatorMain\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Troy Frazier\Desktop\CalculatorMain\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Troy Frazier\Desktop\CalculatorMain\Calculator\obj\Debug\Calculator.Calc.resources
+C:\Users\Troy Frazier\Desktop\CalculatorMain\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Troy Frazier\Desktop\CalculatorMain\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Troy Frazier\Desktop\CalculatorMain\Calculator\obj\Debug\Calculator.exe
+C:\Users\Troy Frazier\Desktop\CalculatorMain\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Troy Frazier\College Related\Comp Programs\CalculatorMain\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Troy Frazier\College Related\Comp Programs\CalculatorMain\Calculator\bin\Debug\Calculator.exe
+C:\Users\Troy Frazier\College Related\Comp Programs\CalculatorMain\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Troy Frazier\College Related\Comp Programs\CalculatorMain\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Troy Frazier\College Related\Comp Programs\CalculatorMain\Calculator\obj\Debug\Calculator.Calc.resources
+C:\Users\Troy Frazier\College Related\Comp Programs\CalculatorMain\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Troy Frazier\College Related\Comp Programs\CalculatorMain\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Troy Frazier\College Related\Comp Programs\CalculatorMain\Calculator\obj\Debug\Calculator.exe
+C:\Users\Troy Frazier\College Related\Comp Programs\CalculatorMain\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Troy Frazier\Desktop\Calculator-Form-master\CalculatorMain\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Troy Frazier\Desktop\Calculator-Form-master\CalculatorMain\Calculator\bin\Debug\Calculator.exe
+C:\Users\Troy Frazier\Desktop\Calculator-Form-master\CalculatorMain\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Troy Frazier\Desktop\Calculator-Form-master\CalculatorMain\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Troy Frazier\Desktop\Calculator-Form-master\CalculatorMain\Calculator\obj\Debug\Calculator.Calc.resources
+C:\Users\Troy Frazier\Desktop\Calculator-Form-master\CalculatorMain\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Troy Frazier\Desktop\Calculator-Form-master\CalculatorMain\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Troy Frazier\Desktop\Calculator-Form-master\CalculatorMain\Calculator\obj\Debug\Calculator.exe
+C:\Users\Troy Frazier\Desktop\Calculator-Form-master\CalculatorMain\Calculator\obj\Debug\Calculator.pdb
